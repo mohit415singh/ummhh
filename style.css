@@ -1,0 +1,43 @@
+h1{
+    color: palevioletred;
+}
+h2{
+    color: rgb(198, 55, 79);
+    text-decoration: underline;
+}
+img{
+    height: 250px;
+    border: 10px solid #FFC0CB;
+    margin: 115px;
+    margin-top: 1pc;
+}
+h1{
+    text-align-last: center;
+}
+h2{
+    text-align: end;
+}
+#Ullu{
+    color: #ef1099;
+    text-align: left;
+    text-transform: uppercase;
+    text-shadow: #ef1099;
+    text-decoration-line: overline underline;
+}
+h1{
+    text-decoration:underline overline palevioletred;
+}
+#booboo{
+    margin-left: 300px;
+}
+#best{
+    color: rgb(240, 240, 113);
+    text-align: center;
+    margin-top: 1px
+}
+#flower{
+    border: black;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    margin-left: 1pc;
+}
